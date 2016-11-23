@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Users\cristiantian\Desktop\proyecto asier\QQSM3.0\src\.metadata\.plugins\org.eclipse.jdt.core
